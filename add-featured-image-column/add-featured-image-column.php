@@ -15,7 +15,7 @@
  * Version:           1.1.6
  * Requires at least: 4.1
  * Requires PHP:      7.4
- * Tested up to:      6.4
+ * Tested up to:      6.8
  * Author:            Robin Cornett
  * Author URI:        https://robincornett.com
  * Text Domain:       add-featured-image-column
